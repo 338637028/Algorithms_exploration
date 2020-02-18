@@ -10,4 +10,7 @@
    
    
   ### Pyraminx
-   > working towards being able to proficiently solve, without aid of [instructions](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube)
+   > I can currently solve the pyraminx in about 25 seconds, but have not yet timed my ao5 or ao12.
+   
+   ### Skewb
+   > No.
