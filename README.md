@@ -1,7 +1,7 @@
 # Current skills/abilities
 
 
-  ## Pyraminx Duo - best averages 
+  ### Pyraminx Duo - best averages 
    *  _ao5_ - 2.99 seconds
    *  _ao12_ - 3.32 seconds  
    _(achieved 2/13/2020)_  
@@ -9,6 +9,5 @@
   
    
    
-  ## Pyraminx
-   > working towards being able to proficiently solve, without aid of instructions
-
+  ### Pyraminx
+   > working towards being able to proficiently solve, without aid of [instructions](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube)
