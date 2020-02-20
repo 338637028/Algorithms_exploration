@@ -10,7 +10,9 @@
    
    
   ### Pyraminx
-   > I can currently solve the pyraminx in about 25 seconds, but have not yet timed my ao5 or ao12. I use [these](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube) algorithms.
+   * _ao5_ - 13.87 seconds
+   * _ao12_ - 13.28 seconds
+   > I use [these](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube) algorithms.
    
    ### Skewb
-   > I have attempted, and miserably failed at solving the skewb, although i did not use any instructions or aid.
+   > with aid of instructions, I can occasonally solve the skewb.
