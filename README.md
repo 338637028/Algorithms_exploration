@@ -15,4 +15,4 @@
    > I use [these](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube) algorithms.
    
    ### Skewb
-   > with aid of instructions, I can occasonally solve the skewb.
+   > I can solve the skewb using [instructions](https://ruwix.com/twisty-puzzles/skewb-pyraminx-mod-skewb-diamond/) in about two minutes. I have not yet precisely timed myself.
