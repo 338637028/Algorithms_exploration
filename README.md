@@ -3,6 +3,7 @@
 #### https://cubedesk.io/user/wvign1
 
 ### Validated solves
+#### (no inpection time)
 
 #### 5 solves #1
 1. (13.22)
